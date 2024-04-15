@@ -3,7 +3,7 @@ import styled from'styled-components';
 import { useEffect } from 'react';
 import SearchResult from './components/SearchResult/SearchResult';
 
-export const BASE_URL="http://localhost:9000";//JSON data url
+export const BASE_URL="https://foody-zone-2.onrender.com/";//JSON data url
 
 
 const App = () => {
